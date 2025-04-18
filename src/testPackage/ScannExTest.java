@@ -10,7 +10,7 @@ public class ScannExTest {
 		
 		int i = sexc.nextInt();
 		
-		System.out.print(i);
+		System.out.print("너가 입력한 숫자: " + i);
 		
 		sexc.close();
 	}
