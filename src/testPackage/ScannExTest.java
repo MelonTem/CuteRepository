@@ -10,7 +10,7 @@ public class ScannExTest {
 		
 		int i = sexc.nextInt();
 		
-		System.out.print(i);
+		System.out.print(i + 1);
 		
 		sexc.close();
 	}
